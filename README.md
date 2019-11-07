@@ -9,8 +9,9 @@ Das Ziel ist es ein REST – Interface zu implementieren, Bei den möglichen Fra
 * Alle Personen mit exakten Lieblingsfarben können über das Interface identifiziert werden
 
 Einige Beispieldatensätze finden sich in `sample-input.csv`. Die Zahlen der ersten Spalte sollen den folgenden Farben entsprechen:
+
 | ID | Farbe |
-|---|---|
+| --- | --- |
 | 1 | blau |
 | 2 | grün |
 | 3 | violett |
@@ -92,6 +93,7 @@ You are to implement a RESTful web interface. The choice of framework and stack 
 * You can identify people with a common favourite colour using the interface
 
 A set of sample data is contained within `sample-input.csv`. The number in the first column represents one of the following colours:
+
 | ID | Farbe |
 |---|---|
 | 1 | blau |
