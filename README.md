@@ -135,7 +135,7 @@ the return content type is `application/json`. The interface should offer the fo
 }
 ```
 
-**GET** /persons/color/{colorid}
+**GET** /persons/color/{color}
 ```json
 [{
 "id" : 1,
